@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&width=700&lines=%3E+Inicializando+Daemons+Wolves...;%3E+Analizamos.+Protegemos.+Construimos.;%3E+El+conocimiento+es+nuestra+mejor+defensa." alt="Mensaje de bienvenida animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&width=700&lines=%3E+Bienvenido+Amigo...;%3E+Analizamos.+Protegemos.+Construimos.;%3E+El+conocimiento+es+nuestra+mejor+defensa." alt="Mensaje de bienvenida animado" />
 </p>
 
 <p align="center">
@@ -40,6 +40,7 @@
   <a href="#-próximas-misiones">MISIONES</a> •
   <a href="#-únete-al-club">UNIRSE</a> |
   <a f="#-código-de-conducta">APUNTA A LO IMPOSIBLE</a>
+  
 </p>
 
 <br>
@@ -70,6 +71,8 @@ Nuestro objetivo es formar personas capaces de comprender los riesgos digitales,
 <br>
 
 ## 🧩 Áreas de operación
+
+> “Se consiente...”
 
 <table>
 <tr>
@@ -122,6 +125,8 @@ Nuestro objetivo es formar personas capaces de comprender los riesgos digitales,
 </tr>
 </table>
 
+> “El mayor fallo de seguridad está frente al monitor...”
+
 <br>
 
 ## 🧰 Arsenal de aprendizaje
@@ -161,6 +166,7 @@ Nuestro objetivo es formar personas capaces de comprender los riesgos digitales,
 [✓] Reverse Engineering  [✓] Network Analysis
 [✓] Secure Coding        [✓] Blue Team Fundamentals
 ```
+
 
 Nuestros retos se desarrollan únicamente en entornos controlados, educativos y autorizados.
 
