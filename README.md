@@ -36,10 +36,8 @@
 
 <p align="center">
   <a f="#-quiénes-somos">NINGÚN SISTEMA ES SEGURO</a> |
-  <a href="#-áreas-de-operación">ÁREAS</a> •
-  <a href="#-próximas-misiones">MISIONES</a> •
-  <a href="#-únete-al-club">UNIRSE</a> |
-  <a f="#-código-de-conducta">APUNTA A LO IMPOSIBLE</a>
+  <a f="#áreas-de-operación">APUNTA A LO IMPOSIBLE</a> |
+  <a f="#-código-de-conducta">DIVIÉRTETE EN INTERNET</a>
   
 </p>
 
