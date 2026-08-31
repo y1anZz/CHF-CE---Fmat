@@ -4,8 +4,8 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0A1F44,100:1D4ED8&height=230&section=header&text=DAEMONS%20WOLVES&fontSize=48&fontColor=E0F2FE&fontAlignY=38&desc=FMAT%20%7C%20Cybersecurity%20Club&descSize=19&descAlignY=58&animation=fadeIn"
-    alt="Daemons Wolves — Club de Ciberseguridad"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0A1F44,100:1D4ED8&height=230&section=header&text=Cyber%20Security%20Club&fontSize=48&fontColor=E0F2FE&fontAlignY=38&desc=FMAT%20%7C%20Cybersecurity%20Club&descSize=19&descAlignY=58&animation=fadeIn"
+    alt="Cyber Security Club — Club de Ciberseguridad"
     width="100%"
   />
 </p>
