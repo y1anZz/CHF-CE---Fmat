@@ -72,7 +72,7 @@ Nuestro objetivo es formar personas capaces de comprender los riesgos digitales,
 
 ## 🧩 Áreas de operación
 
-> “Se consiente...”
+> "Los hackers ya no atacan sistemas; engañan personas..."
 
 <table>
 <tr>
