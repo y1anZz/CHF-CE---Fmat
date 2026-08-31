@@ -188,7 +188,7 @@ Rol	Responsable	Contacto
 </p>
 
 <p align="center">
-  <code>root@:~$ echo "Aprender. Proteger. Compartir."</code>
+  <code>root@Daemons Wolves:~$ echo "Aprender. Proteger. Compartir."</code>
 </p>
 
 <p align="center">
