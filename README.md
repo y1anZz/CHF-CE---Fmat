@@ -44,10 +44,162 @@
 
 <br>
 
+🎯 Nuestra misión
+🧠 Aprender	🛡️ Defender	🤝 Compartir
+Desarrollar habilidades técnicas con laboratorios y retos reales.	Promover una cultura de prevención y seguridad digital.	Crear una comunidad abierta donde el conocimiento circule.
+
+
+
+🧩 Áreas de operación
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🌐 Seguridad Web
+- OWASP Top 10
+- Autenticación y sesiones
+- Desarrollo seguro
+- Análisis de vulnerabilidades
+- Laboratorios web
+</td>
+<td width="50%" valign="top">
+
+📡 Redes y Sistemas
+- Análisis de tráfico
+- Hardening
+- Firewalls y monitoreo
+- Linux y administración segura
+- Respuesta a incidentes
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🔐 Criptografía
+- Cifrado simétrico y asimétrico
+- Hashes y firmas digitales
+- Gestión de claves
+- Esteganografía
+- Retos Crypto CTF
+</td>
+<td width="50%" valign="top">
+
+🕵️ Investigación Digital
+- OSINT
+- Forense digital
+- Ingeniería inversa
+- Análisis de malware
+- Inteligencia de amenazas
+</td>
+</tr>
+</table>
+
+
+🧰 Arsenal de aprendizaje
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,docker,postgres,nginx,cloudflare&theme=dark" alt="Herramientas del club" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/CTF-00F5A0?style=for-the-badge&logo=hackthebox&logoColor=080D1B" alt="CTF" />
+</p>
+
+
+📅 Próximas misiones
+Fecha	Operación	Tipo	Estado
+[DD/MM]	Introducción a Linux para Ciberseguridad	Taller	🟢 Abierto
+[DD/MM]	Análisis de tráfico con Wireshark	Laboratorio	🟢 Abierto
+[DD/MM]	CTF interno: Operation Zero Day	Competencia	🟡 Próximamente
+[DD/MM]	OWASP Top 10: Seguridad Web	Charla	🟢 Abierto
+
+
+Consulta la pestaña de Issues para proponer talleres, retos o proyectos.
+
+
+🏴‍☠️ CTF y laboratorios
+[✓] Web Exploitation
+[✓] Cryptography
+[✓] Digital Forensics
+[✓] OSINT
+[✓] Reverse Engineering
+[✓] Network Analysis
+[✓] Secure Coding
+Nuestros retos se desarrollan únicamente en entornos controlados, educativos y autorizados.
+
+🗺️ Ruta de aprendizaje
+```mermaid
+flowchart LR
+    A[🌱 Principiante] --> B[🐧 Fundamentos Linux y Redes]
+    B --> C[🔐 Seguridad Web y Criptografía]
+    C --> D[🕵️ Forense, OSINT y CTF]
+    D --> E[🛡️ Proyectos y Defensa Avanzada]
+```
+
+
+
+
+🤝 Únete al club
+¿Quieres comenzar en ciberseguridad o profundizar tus conocimientos? No necesitas experiencia previa; solo curiosidad, compromiso y ganas de aprender.
+1. Únete a nuestra comunidad en Discord.
+2. Preséntate en el canal #bienvenida.
+3. Revisa el calendario de próximas actividades.
+4. Participa en un taller o reto.
+5. Comparte tus ideas y crea con nosotros.
+<p align="center">
+  <a href="[ENLACE_FORMULARIO]">
+    <img src="https://img.shields.io/badge/SOLICITAR%20ACCESO-00F5A0?style=for-the-badge&logo=hackthebox&logoColor=080D1B" alt="Solicitar acceso" />
+  </a>
+</p>
+
+
+⚖️ Código de conducta
+[!WARNING]
+La ciberseguridad exige responsabilidad. Todo conocimiento y herramienta compartida en esta comunidad debe utilizarse exclusivamente con fines educativos, defensivos y legales.
+
+- Respeta la privacidad y los sistemas de otras personas.
+- Nunca realices pruebas sin autorización explícita.
+- Comparte conocimiento para proteger, no para perjudicar.
+- Mantén un ambiente inclusivo, respetuoso y colaborativo.
+- Reporta conductas inapropiadas al equipo organizador.
+
+👥 Equipo organizador
+Rol	Responsable	Contacto
+🧭 Presidencia	[Nombre]	[Contacto]
+⚙️ Coordinación técnica	[Nombre]	[Contacto]
+📢 Comunicación	[Nombre]	[Contacto]
+🧪 Mentores	[Nombre(s)]	[Contacto]
+
+
+
+📚 Recursos recomendados
+- OWASP Top 10
+- PortSwigger Web Security Academy
+- TryHackMe
+- Hack The Box Academy
+- OverTheWire
+- CISA — Recursos de ciberseguridad
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:00A86B,100:00F5A0&height=2&section=footer" width="100%" alt="" />
+</p>
+
+<p align="center">
+  <code>root@:~$ echo "Aprender. Proteger. Compartir."</code>
+</p>
+
+<p align="center">
+  <b>🛡️ Construyendo una comunidad más segura, una habilidad a la vez. 🛡️</b>
+</p>
+```
+
 ## 🛰️ Quiénes somos
 
 ```console
-┌──([NOMBRE DEL CLUB]@cybersecurity)-[~/community]
+┌──(Daemons Wolves@cybersecurity)-[~/community]
 └─$ whoami
 
 Somos una comunidad estudiantil dedicada a aprender, compartir y
