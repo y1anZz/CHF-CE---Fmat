@@ -35,11 +35,11 @@
 ---
 
 <p align="center">
-  <a f="#-quiénes-somos">NINGÚN LUGAR ES SEGURO</a> |
+  <a f="#-quiénes-somos">NINGÚN SISTEMA ES SEGURO</a> |
   <a href="#-áreas-de-operación">ÁREAS</a> •
   <a href="#-próximas-misiones">MISIONES</a> •
   <a href="#-únete-al-club">UNIRSE</a> |
-  <a f="#-código-de-conducta">SIEMPRE PIÉNSALO DOS VECES</a>
+  <a f="#-código-de-conducta">APUNTA A LO IMPOSIBLE</a>
 </p>
 
 <br>
